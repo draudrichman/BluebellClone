@@ -32,7 +32,7 @@ export default function About() {
           </p>
           
           {/* Navigation Tabs */}
-          <div className="flex justify-center space-x-8 mb-8">
+          {/* <div className="flex justify-center space-x-8 mb-8">
             {navigationTabs.map((tab) => (
               <Button 
                 key={tab.id}
@@ -44,7 +44,7 @@ export default function About() {
                 {tab.label}
               </Button>
             ))}
-          </div>
+          </div> */}
         </div>
       </section>
       
