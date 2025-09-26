@@ -1,5 +1,5 @@
 import ServiceCard from '../ServiceCard'
-import lawnCareImage from "@assets/generated_images/Lawn_care_service_image_6cca5b63.png";
+import lawnCareImage from "@assets/generated_images/Lawn_care_service_image_6cca5b63.webp";
 
 export default function ServiceCardExample() {
   return (

@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 import { Link } from "wouter";
 
 // Import service images
-import lawnCareImage from "@assets/generated_images/Lawn_care_service_image_6cca5b63.png";
-import handymanImage from "@assets/generated_images/Handyman_services_image_2bbf4d31.png";
-import applianceImage from "@assets/generated_images/Appliance_services_image_f8d3def5.png";
+import lawnCareImage from "@assets/generated_images/Lawn_care_service_image_6cca5b63.webp";
+import handymanImage from "@assets/generated_images/Handyman_services_image_2bbf4d31.webp";
+import applianceImage from "@assets/generated_images/Appliance_services_image_f8d3def5.webp";
 
 const homeServices = [
   {

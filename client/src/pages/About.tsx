@@ -3,7 +3,7 @@ import ProcessFlow from "@/components/ProcessFlow";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
 import { CheckCircle, Clock } from "lucide-react";
-import aboutImage from "@assets/generated_images/Flooring_services_image_bf711518.png";
+import aboutImage from "@assets/generated_images/Flooring_services_image_bf711518.webp";
 
 const navigationTabs = [
   { id: "story", label: "overview" },

@@ -6,13 +6,13 @@ import { Link } from "wouter";
 import { Hammer } from "lucide-react";
 
 // Import all service images
-import handymanImage from "@assets/generated_images/Handyman_services_image_2bbf4d31.png";
-import applianceImage from "@assets/generated_images/Appliance_services_image_f8d3def5.png";
-import lawnCareImage from "@assets/generated_images/Lawn_care_service_image_6cca5b63.png";
-import poolImage from "@assets/generated_images/Pool_maintenance_image_ab87c7a1.png";
-import drywallImage from "@assets/generated_images/Drywall_repair_image_658fceec.png";
-import flooringImage from "@assets/generated_images/Flooring_services_image_bf711518.png";
-import cleanupImage from "@assets/generated_images/Seasonal_cleanup_image_8e211df2.png";
+import handymanImage from "@assets/generated_images/Handyman_services_image_2bbf4d31.webp";
+import applianceImage from "@assets/generated_images/Appliance_services_image_f8d3def5.webp";
+import lawnCareImage from "@assets/generated_images/Lawn_care_service_image_6cca5b63.webp";
+import poolImage from "@assets/generated_images/Pool_maintenance_image_ab87c7a1.webp";
+import drywallImage from "@assets/generated_images/Drywall_repair_image_658fceec.webp";
+import flooringImage from "@assets/generated_images/Flooring_services_image_bf711518.webp";
+import cleanupImage from "@assets/generated_images/Seasonal_cleanup_image_8e211df2.webp";
 
 const allServices = [
   {
